@@ -1,6 +1,6 @@
 package Bundle::Demo;
 
-$VERSION = '0.01';
+$VERSION = '0.2';
 
 1;
 
@@ -21,6 +21,8 @@ Data::Dumper any word after the first is a comment
 Text::Tabs 96.051501 a number is also just a comment
 
 ExtUtils::MakeMaker
+
+ANDK/Convert-UU-0.01.tar.gz here we give them an old version! Nor recommended, but possible. Enough rope!
 
 =head1 DESCRIPTION
 
